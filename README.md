@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jatind13
-- 👀 I’m interested in Software Development
+- 👀 I’m Senior Software Engineer at Macy's
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate with some amazing developers
 - 📫 How to reach me Twitter-@Jatin_Dixit_ , E-mail me at - jatindixit1305@gmail.com
